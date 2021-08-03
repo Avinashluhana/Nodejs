@@ -1,4 +1,6 @@
 const fs = require('fs');
+const os = require('os');
+
 
 // fs.mkdir("Async", (err) => {
 //     console.log("Folder has been creaded");
@@ -18,4 +20,5 @@ fs.appendFile("./Async/async.txt", "text appended", (err) => {
 //     console.log(data);
 
 // });
+
 
