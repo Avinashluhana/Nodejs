@@ -11,9 +11,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon ./npm/index.js",
+    "start": "",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Avinash",
+  "author": "Avinash kumar",
   "license": "ISC"
 }
